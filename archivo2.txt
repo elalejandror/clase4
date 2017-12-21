@@ -1,0 +1,1 @@
+contenido linea 1 archivo2.txt 
